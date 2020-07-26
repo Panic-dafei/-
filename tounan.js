@@ -1,3 +1,3 @@
 function tounan() {
-    console.log(g);
+    console.log(111);
 }
